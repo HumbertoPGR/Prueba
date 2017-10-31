@@ -1,0 +1,22 @@
+C:\Users\LuisPG\AppData\Local\Temporary Projects\PGR.Litigioso\bin\Debug\PGR.Litigioso.exe
+C:\Users\LuisPG\AppData\Local\Temporary Projects\PGR.Litigioso\bin\Debug\PGR.Litigioso.pdb
+C:\Users\LuisPG\AppData\Local\Temporary Projects\PGR.Litigioso\bin\Debug\PGR.Litigioso.xml
+C:\Users\LuisPG\AppData\Local\Temporary Projects\PGR.Litigioso\obj\Debug\PGR.Litigioso.Resources.resources
+C:\Users\LuisPG\AppData\Local\Temporary Projects\PGR.Litigioso\obj\Debug\PGR.Litigioso.vbproj.GenerateResource.Cache
+C:\Users\LuisPG\AppData\Local\Temporary Projects\PGR.Litigioso\obj\Debug\PGR.Litigioso.exe
+C:\Users\LuisPG\AppData\Local\Temporary Projects\PGR.Litigioso\obj\Debug\PGR.Litigioso.xml
+C:\Users\LuisPG\AppData\Local\Temporary Projects\PGR.Litigioso\obj\Debug\PGR.Litigioso.pdb
+C:\Users\LuisPG\AppData\Local\Temporary Projects\PGR.Litigioso\obj\Debug\PGR.Litigioso.frmInicio.resources
+C:\Users\LuisPG\AppData\Local\Temporary Projects\PGR.Litigioso\obj\Debug\PGR.Litigioso.frmLogin.resources
+C:\Users\LuisPG\Documents\Visual Studio 2012\Projects\PGR.Litigioso\PGR.Litigioso\obj\Debug\PGR.Litigioso.exe
+C:\Users\LuisPG\Documents\Visual Studio 2012\Projects\PGR.Litigioso\PGR.Litigioso\obj\Debug\PGR.Litigioso.xml
+C:\Users\LuisPG\Documents\Visual Studio 2012\Projects\PGR.Litigioso\PGR.Litigioso\obj\Debug\PGR.Litigioso.pdb
+C:\Users\LuisPG\Documents\Visual Studio 2012\Projects\PGR.Litigioso\PGR.Litigioso\bin\Debug\PGR.Litigioso.exe
+C:\Users\LuisPG\Documents\Visual Studio 2012\Projects\PGR.Litigioso\PGR.Litigioso\bin\Debug\PGR.Litigioso.pdb
+C:\Users\LuisPG\Documents\Visual Studio 2012\Projects\PGR.Litigioso\PGR.Litigioso\bin\Debug\PGR.Litigioso.xml
+C:\Users\LuisPG\Documents\Visual Studio 2012\Projects\PGR.Litigioso\PGR.Litigioso\obj\Debug\PGR.Litigioso.frmInicio.resources
+C:\Users\LuisPG\Documents\Visual Studio 2012\Projects\PGR.Litigioso\PGR.Litigioso\obj\Debug\PGR.Litigioso.frmLogin.resources
+C:\Users\LuisPG\Documents\Visual Studio 2012\Projects\PGR.Litigioso\PGR.Litigioso\obj\Debug\PGR.Litigioso.Resources.resources
+C:\Users\LuisPG\Documents\Visual Studio 2012\Projects\PGR.Litigioso\PGR.Litigioso\obj\Debug\PGR.Litigioso.vbproj.GenerateResource.Cache
+C:\Users\LuisPG\Documents\Visual Studio 2012\Projects\PGR.Litigioso\PGR.Litigioso\obj\Debug\PGR.Litigioso.frmTipoMoneda.resources
+C:\Users\LuisPG\Documents\Visual Studio 2012\Projects\PGR.Litigioso\PGR.Litigioso\obj\Debug\PGR.Litigioso.exe.licenses
